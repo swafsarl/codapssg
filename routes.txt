@@ -1,0 +1,5 @@
+/blogs
+/blogs/1
+/blogs/2
+/blogs/3
+/blogs/4
